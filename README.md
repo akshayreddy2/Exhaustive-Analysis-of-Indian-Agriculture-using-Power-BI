@@ -53,11 +53,7 @@ This project, part of my Mentorness internship, aims to analyzed Indian agricult
 ## Conclusion
 This project successfully leveraged Power BI to analyze Indian agriculture data, providing valuable insights into crop cultivation patterns, production levels, and seasonal trends. The interactive dashboard and presentation enabled stakeholders to make informed decisions to promote sustainable agriculture and optimize resource use.
 
-## Live Dashboard : 
-   https://www.novypro.com/project/indian-agriculture-analysis-power-bi-1
-   
-## Presentation link : 
-  https://drive.google.com/file/d/1HUQuPQx_XzCIm2YfTZzGcfq8zZuITElz/view?usp=sharing
+
 
 
 
